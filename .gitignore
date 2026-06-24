@@ -4,5 +4,5 @@ node_modules
 .env
 .sandstone
 .minecraft/allowed_symlinks.txt
-.minecraft/saves/nullWorld/datapacks/*
+.minecraft/saves/nullWorld/datapacks/wacky
 resources/cache
