@@ -3,6 +3,4 @@ node_modules
 .vscode
 .env
 .sandstone
-.minecraft/allowed_symlinks.txt
-.minecraft/saves/nullWorld/datapacks/wacky
 resources/cache
